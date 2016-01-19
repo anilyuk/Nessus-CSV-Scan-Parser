@@ -8,3 +8,5 @@ Usage: nessusCSVScanParser.ps1 d:\ScanResults\Scan1.csv -s
 	-s				Write Output .csv to same directory
 	-o	[Directory]	Write output to differenf directory (Full path)"
 	-d	[Delimeter]	Csv file delimeter (Default is #)
+	-ho	Change listing to host based (Default is Plugin Based)
+	-Verbose	Enable verbose
