@@ -2,7 +2,7 @@
 
 Parse exported CSV file and create Excel friendly CSV.
 
-Usage: nessusCSVScanParser.ps1 d:\ScanResults\Scan1.csv -s
+Usage: nessusCSVScanParser.ps1 d:\ScanResults\Scan1.csv
 
 	-i	[File]		Full path of scan file(Only .csv file, Full path)
 	-s				Write Output .csv to same directory
